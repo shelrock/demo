@@ -3,7 +3,4 @@
 
 안녕하세요 !!
 
-test 입니다.
-test 입니다.
-test 입니다.
-test 입니다.
+feature/a 기능 추가
